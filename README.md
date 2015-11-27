@@ -1,0 +1,2 @@
+##Snake.js
+This Javascript Snake game is completely based on: [thecodeplayer.com](http://thecodeplayer.com/walkthrough/html5-game-tutorial-make-a-snake-game-using-html5-canvas-jquery). It's been used in a Neuro Usability experiment at Technische Universitat Berlin.
